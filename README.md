@@ -21,4 +21,4 @@ webapp running on port :9001
 ```
 
 ### Screenshot
-[<img src="./assets/ss1.png" width="400">](https://github.com/wuriyanto48)
+[<img src="./assets/ss1.png" width="700">](https://github.com/wuriyanto48)
